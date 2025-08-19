@@ -47,4 +47,4 @@ function generateMessage(){
     return `The favorite quote of the day is ${no1} , but suddenly she said; ${no3} , The title of my favorite novel is ${no2}`
 }
 
-console.log(generateMessage())
+console.log(generateMessage());
