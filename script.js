@@ -4,7 +4,7 @@ const firstMessage = [ 'Your sign is pulling energy from a forgotten star',
     'Your aura has been buzzing since Mercury last exhaled',
     'Love won\'t knock today',
     'Jupiter rolls dice in your favor this week',
-    'A forgotten friend might reappear whrn Saturn stumbles',
+    'A forgotten friend might reappear when Saturn stumbles',
     'Your energy is contagious',
     'Stars are realigning for you',
     'A new chapter starts with an oddly times compliment'
